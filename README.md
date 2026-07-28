@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Samanwita%20Saha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://raw.githubusercontent.com/samanwitasaha/REPOSITORY_NAME/main/assets/banner.png" width="100%"/>
 
 # 🌸 Hi, I'm Samanwita Saha 🌸
 
