@@ -101,15 +101,15 @@ Coming Soon...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IndrajitDutta420&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samanwitasaha&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=IndrajitDutta420&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=samanwitasaha&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndrajitDutta420&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanwitasaha&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
