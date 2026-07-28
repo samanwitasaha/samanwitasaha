@@ -1,16 +1,22 @@
 <div align="center">
 
-# 🌸 Hi, I'm Samanwita Saha
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Samanwita%20Saha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 💜 Electronics & Communication Engineering Student | 🌐 Aspiring Web Developer | 🚀 Future AI Engineer
+# 🌸 Hi, I'm Samanwita Saha 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;B.Tech+ECE+Student;Learning+Web+Development;Hackathon+Enthusiast;Building+Projects+Step+by+Step" />
+### 💜 B.Tech ECE Student | 🌐 Aspiring Web Developer | 🚀 Future AI Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Learning+Web+Development;Building+Projects+Step+by+Step;Future+AI+Engineer;Hackathon+Enthusiast"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=samanwitasaha&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/samanwitasaha?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Hackathons-ff69b4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Everyday-8A2BE2?style=for-the-badge"/>
 
 </div>
 
@@ -18,85 +24,124 @@
 
 # 🌷 About Me
 
-🎓 B.Tech Student in **Electronics & Communication Engineering**
+🎓 **B.Tech Student in Electronics & Communication Engineering**
 
-💡 I enjoy learning new technologies, building projects, and participating in hackathons.
+💡 Passionate about technology, problem-solving, and building creative projects.
 
 🌱 **Currently Learning**
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-
-🎯 **Future Goals**
-- 🌐 Become a Full-Stack Web Developer
-- 🤖 Learn Artificial Intelligence & Computer Vision
-- 🏆 Participate in National Hackathons
-- 💻 Build Real-World Projects
-- 🌟 Contribute to Open Source
-
----
-
-# 💻 Tech Stack
-
-### Languages & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
 
 - 🌐 HTML
 - 🎨 CSS
 - ⚡ JavaScript
 - 🔀 Git & GitHub
-- 📱 Responsive Web Design
+
+🎯 **Future Goals**
+
+🤖 Artificial Intelligence
+
+💻 Full-Stack Web Development
+
+🏆 Hackathons
+
+🌍 Open Source
+
+✨ I believe that every project helps me learn something new.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+🌸 Personal Portfolio Website
+
+💻 HTML & CSS Projects
+
+🚀 Learning JavaScript
+
+🏆 Preparing for Hackathons
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-A responsive personal portfolio built using HTML and CSS.
-
----
-
-### 💻 HTML & CSS Practice
-
-Small projects created while learning web development.
+Responsive Portfolio using HTML & CSS
 
 ---
 
-### 🤖 Future AI Projects
+## 💻 HTML & CSS Practice
+
+Landing Pages
+
+Cards
+
+Forms
+
+Responsive UI
+
+---
+
+## 🤖 AI Projects
 
 Coming Soon...
+
 ---
 
-# 🎯 My Learning Journey
+# 📊 GitHub Statistics
 
-- ✅ HTML
-- ✅ CSS
-- 🔄 JavaScript
-- ⏳ React
-- ⏳ Python
-- ⏳ Artificial Intelligence
-- ⏳ Machine Learning
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samanwitasaha&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=samanwitasaha&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanwitasaha&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Learning Roadmap
+
+✅ HTML
+
+✅ CSS
+
+🔄 JavaScript
+
+⏳ React
+
+⏳ Python
+
+⏳ Artificial Intelligence
+
+⏳ Machine Learning
+
+---
+
+# 🏅 Future Achievements
+
+🏆 Hackathons
+
+📜 Certifications
+
+🌍 Open Source Contributions
+
+💼 Internship
 
 ---
 
@@ -104,16 +149,20 @@ Coming Soon...
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/samanwitasaha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/samanwita-saha">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_DEVFOLIO_LINK">
-<img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<a href="https://devfolio.co/@samanwitas2006">
+<img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:samanwitasaha468@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -122,10 +171,14 @@ Coming Soon...
 
 <div align="center">
 
-## 💖 Quote
+## 💖 Favorite Quote
 
-### *"Every expert was once a beginner. I learn, build, improve, and never stop growing."* 🌸
+> **"Every expert was once a beginner. Every line of code I write brings me one step closer to my dreams."**
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+### 🌸 Happy Coding! 🌸
 
 </div>
